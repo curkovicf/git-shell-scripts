@@ -4,7 +4,7 @@ cp -R ./scripts ./scripts_build
 
 cd ./scripts_build
 
-sudo chmod u+x gaa gacp gc gcb gce gcmsg gcn gm gpm gpo grh gs
+sudo chmod u+x gaa gacp gc gcb gce gcmsg gcn gm gpo gpom grh gs
 
 sudo mv gaa /usr/local/bin 
 sudo mv gacp /usr/local/bin 
@@ -14,8 +14,8 @@ sudo mv gce /usr/local/bin
 sudo mv gcmsg /usr/local/bin 
 sudo mv gcn /usr/local/bin 
 sudo mv gm /usr/local/bin 
-sudo mv gpm /usr/local/bin
-sudo mv gpo /usr/local/bin  
+sudo mv gpo /usr/local/bin
+sudo mv gpom /usr/local/bin  
 sudo mv grh /usr/local/bin 
 sudo mv gs /usr/local/bin 
 

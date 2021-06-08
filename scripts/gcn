@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git config user.name $1
+git config user.name "$1"
