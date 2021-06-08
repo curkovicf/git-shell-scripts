@@ -1,0 +1,14 @@
+#!/bin/bash
+
+sudo rm /usr/local/bin/gaa
+sudo rm /usr/local/bin/gacp
+sudo rm /usr/local/bin/gc
+sudo rm /usr/local/bin/gcb
+sudo rm /usr/local/bin/gce
+sudo rm /usr/local/bin/gcmsg
+sudo rm /usr/local/bin/gcn
+sudo rm /usr/local/bin/gm
+sudo rm /usr/local/bin/gpm
+sudo rm /usr/local/bin/gpo
+sudo rm /usr/local/bin/grh
+sudo rm /usr/local/bin/gs
