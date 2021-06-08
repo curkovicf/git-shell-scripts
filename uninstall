@@ -12,3 +12,7 @@ sudo rm /usr/local/bin/gpo
 sudo rm /usr/local/bin/gpom
 sudo rm /usr/local/bin/grh
 sudo rm /usr/local/bin/gs
+sudo rm /usr/local/bin/grlb
+sudo rm /usr/local/bin/grlbf
+sudo rm /usr/local/bin/grrb
+
