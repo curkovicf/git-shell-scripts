@@ -19,6 +19,8 @@ echo "	grlb - git branch -d <branch-name>"
 echo "	grlbf - git branch -D <branch-name>"
 echo "	grrb - git push origin --delete <origin-branch-name>"
 echo "	gs - git status"
+echo "	gpull - git pull"
+echo "	gpullo - git pull origin <branch-name>"
 
 echo ""
 echo " ***** "
