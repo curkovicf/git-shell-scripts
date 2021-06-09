@@ -22,6 +22,8 @@ Git shortcut commands aimed to increase developers productivity in Linux dev env
 | grlbf | git delete -D <branch> | Delete branch even if its not clean `USE WITH CAUTION.` |
 | grrb | git push origin --delete <origin-branch> | Delete remote branch `USE WITH CAUTION.` |
 | gs | git status | Display state of current working dir |
+| gpull | git pull | Pull changes |
+| gpullo | git pull origin <branch> | Pull changes from origin |
 
   
 ## Installation
