@@ -1,6 +1,21 @@
-## Features
+## About
 
-Git shortcut commands aimed to increase developers productivity in Linux dev env.
+Easy to use git shortcut commands aimed to increase developer's productivity in Linux environment.  
+Shell scripts are added globally.  
+
+
+## Installation
+  
+Scripts are added to /usr/local/bin (with executable permissions) to allow global execution.
+  
+Clone this repo, navigate to it and execute ``` bash install ``` in terminal.
+  
+## Removal
+ 
+Navigate to this repo, execute ``` bash uninstall ``` in terminal.
+ 
+
+## Features
 
 | Shell Shortcut | Git Command | What it does |
 | ------ | ------ | ------ |
@@ -24,12 +39,3 @@ Git shortcut commands aimed to increase developers productivity in Linux dev env
 | gpullo | git pull origin <branch> | Pull changes from origin |
 
   
-## Installation
-  
-Clone this repo, navigate to it and execute ``` bash install ``` in terminal.
-  
-## Removal
- 
-Navigate to this repo, execute ``` bash uninstall ``` in terminal.
-  
-### Das ist alles
