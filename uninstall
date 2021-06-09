@@ -15,4 +15,5 @@ sudo rm /usr/local/bin/gs
 sudo rm /usr/local/bin/grlb
 sudo rm /usr/local/bin/grlbf
 sudo rm /usr/local/bin/grrb
+sudo rm /usr/local/bin/ghelp
 

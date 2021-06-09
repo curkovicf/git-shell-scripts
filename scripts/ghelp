@@ -1,0 +1,24 @@
+#!/bin/bash
+
+echo " ***** "
+echo " git scripts summary "
+echo ""
+
+echo "	gaa - git add ."
+echo "	gacp - git add . & git commit -m <message> & git push origin <branch-name>"
+echo "	gc - git checkout <branch-name>"
+echo "	gcb - git checkout -b <branch-name>"
+echo "	gce - git config user.email <email>"
+echo "	gcmsg - git commit -m <message>"
+echo "	gcn - git config user.name <user-name>"
+echo "	gm - git merge <target-branch>"
+echo "	gpo - git push origin <branch-name>"
+echo "	gpom - git push origin master"
+echo "	grh - git reset --HARD"
+echo "	grlb - git branch -d <branch-name>"
+echo "	grlbf - git branch -D <branch-name>"
+echo "	grrb - git push origin --delete <origin-branch-name>"
+echo "	gs - git status"
+
+echo ""
+echo " ***** "
