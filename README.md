@@ -1,5 +1,3 @@
-# git-shell-scripts
-
 ## Features
 
 Git shortcut commands aimed to increase developers productivity in Linux dev env.
